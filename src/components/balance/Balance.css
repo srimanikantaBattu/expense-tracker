@@ -1,0 +1,18 @@
+.line1{
+    border: 1px solid white;
+    height: 90px;
+}
+.balance-div{
+    background: #350f71;
+    background: -webkit-linear-gradient(to bottom, rgb(71, 4, 153), rgb(78, 33, 117));
+    background: linear-gradient(to bottom, rgb(71, 4, 153), #615e95);
+}
+.cust-text{
+    margin-top: 3px;
+}
+.green{
+    color: rgb(0, 255, 13);
+}
+.red{
+    color: red;
+}
